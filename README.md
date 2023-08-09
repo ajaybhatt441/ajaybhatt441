@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Bhatt</h1>
 <h3 align="center">A Microsoft Certified AI Engineer</h3>
 
-<img align="right" alt="coding" width="400" src=“https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif”>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybhatt441&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybhatt441" /> </p>
 

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajaybhatt441aj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lh5molBjSE_vk3uNgqVvqO1uKBYSQiuO/view?usp=sharing](https://drive.google.com/file/d/1Lh5molBjSE_vk3uNgqVvqO1uKBYSQiuO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gnEvLEPobE-sSk5ob5o_RxRWwt3Jf_7X/view?usp=sharing](AJ Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

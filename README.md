@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Bhatt</h1>
-<h3 align="center">A Microsoft a Lead AI Engineer</h3>
+<h3 align="center">A Microsoft Certified Lead AI Engineer</h3>
 <h3 align="center">Note: I don't push my code on my personal account now.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
